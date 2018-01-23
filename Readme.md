@@ -47,3 +47,7 @@ To evaluate the retrieval results:
 To extract document vectors (will be saved in NumPy text format to the model directory):
 
         $ python vectors.py --dataset <path to preprocessed dataset> --model <path to trained model directory>
+
+#### Updates
+
+  Updates by @deaktator
